@@ -16,23 +16,7 @@ You control a delivery van that drives through a cozy, top-down village map. The
 
 Along the way, you'll encounter obstacles, collectible boost orbs, and other interactive elements that add a bit of challenge and fun to the delivery run.
 
----
 
-## 🎮 Screenshots
-
-### Top-Down Map Overview
-![Map Overview](./screenshots/map-overview.png)
-
-### Boosted Delivery Run
-![Boosted Gameplay](./screenshots/gameplay-boosted.png)
-
-### Watch Out for Obstacles!
-![Gameplay with Monster](./screenshots/gameplay-monster.png)
-
-### Collecting Boost Orbs
-![Gameplay with Orbs](./screenshots/gameplay-orbs.png)
-
----
 
 ## 🛠️ Built With
 
